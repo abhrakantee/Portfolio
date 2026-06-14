@@ -12,7 +12,7 @@ body {
   line-height: 1.6;
 }
 
-/* Hero Section */
+/* Hero  */
 .hero {
   height: 100vh;
   background: linear-gradient(135deg, #08011a, #010007, #02d8f4, #170251, #ff9800);
@@ -90,7 +90,7 @@ body {
   box-shadow: 0 0 35px rgba(255,152,0,1);
 }
 
-/* Skills Section */
+/* Skills  */
 .skills {
   padding: 50px;
   text-align: center;
@@ -133,7 +133,7 @@ body {
   text-shadow: 0 0 15px rgba(0, 0, 0, 0.9);
 }
 
-/* Projects Section */
+/* Projects */
 .projects {
   padding: 80px;
   text-align: center;
@@ -148,7 +148,7 @@ body {
   text-shadow: 0 0 15px rgba(0,198,255,0.8);
 }
 
-/* Certificates Section */
+/* Certificates */
 .certificates {
   background: linear-gradient(90deg, #0f0131, #010007, #01363d, #170251, #012a08);
   background-size: 600% 600%;
@@ -184,7 +184,7 @@ body {
   box-shadow: 0 0 15px rgb(0, 255, 0);
 }
 
-/* Contact Section */
+/* Contact */
 .contact {
   padding: 60px;
   text-align: center;
